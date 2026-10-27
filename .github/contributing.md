@@ -1,0 +1,30 @@
+How to contribute & use the issue tracker
+=========================================
+
+Your contributions are welcome. There are several ways to help out:
+
+* Create an issue on GitHub if you have found a bug
+* Write test cases for open bug issues
+* Write fixes for open bug/feature issues, preferably with test cases included
+* Support my work on [GitHub Sponsors](https://github.com/sponsors/dg)
+
+Issues
+------
+
+Please try to be as detailed as possible in your bug report, so nobody has to ask
+you for more information.
+
+**Feature requests** are welcome, but take a moment to find out whether your idea
+fits the scope and aims of the project. It's up to *you* to convince
+the developers that your feature is worth adding.
+
+Contributing
+------------
+
+If you'd like to contribute, please take a moment to read [the contributing guide](https://nette.org/en/contributing).
+
+The best way to propose a feature is to discuss your idea in an issue before implementing it.
+
+Please do not fix whitespace, format code, or make a purely cosmetic patch.
+
+Thanks! :heart:
